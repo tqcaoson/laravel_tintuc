@@ -22,7 +22,7 @@
 	            	<div class="panel-body">
 	            		<!-- item -->
 					   <h3>
-					   	Tôi là Trịnh Quang Cao Sơn, năm nay 20 tuổi. Hiện là một lập trình viên nghiệp dư và đang hướng tới trở thành lập trình viên chuyên nghiệp. Tôi viết ra trang Web này mục đích để kiểm tra lại trình độ của mình.
+					   	
 					   </h3><br>
 					   <h3>
 					   	Đây là một trang Web tin tức, chuyên cập nhật những vấn đề nổi bật trong xã hội hiện nay về mọi mặt trong đời sống xã hội.
